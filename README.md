@@ -3,7 +3,6 @@ This is a work day scheduler that allows you to add tasks for each hour from 9am
 
 ##Screenshot
 ![Home Page](./screenshot.jpg)
-![Home Page](/assets/images/Home-Page-Screenshot.jpg)
 
 
 ###Deployed App Link
