@@ -16,9 +16,6 @@ $(document).ready(function (){
 
       localStorage.setItem(time, value)
       console.log(time, value)
-
-      var tasks = localStorage.getItem(time)
-      console.log(tasks)
   })
 
   // change color of time block
@@ -38,8 +35,8 @@ $(document).ready(function (){
               $(this).siblings(".description").addClass("future")
           }
       }) 
-
   }
+
 
   updatedHour()
 
